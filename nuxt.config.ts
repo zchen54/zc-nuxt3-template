@@ -20,4 +20,10 @@ export default defineNuxtConfig({
   //     script: [{ src: '@/assets/fonts/iconfont.js', type: 'text/javascript' }],
   //   },
   // },
+  app: {
+    head: {
+      charset: 'utf-8',
+      viewport: 'width=device-width, initial-scale=1',
+    },
+  },
 })
