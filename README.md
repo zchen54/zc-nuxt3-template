@@ -41,11 +41,10 @@ npm run preview
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
-
 ## 🔗 参考链接
 
 - 💻 服务端渲染：[Nuxt.js 3.0](https://nuxt.com/)
 - 💻 构建工具：[Vite](https://vitejs.cn/guide/env-and-mode.html)
 - 📝 参考文档：[Nuxt3 开发-配置-部署](https://blog.csdn.net/snowball_li/article/details/128013833)
-- 📝 参考文档：[Nuxt3项目搭建（Nuxt3+element-plus+scss详细步骤）](https://blog.csdn.net/m0_48489737/article/details/127325786)
-- 📝 参考文档：[Nuxt3项目中使用svg](https://blog.csdn.net/weixin_49014702/article/details/128414398)
+- 📝 参考文档：[Nuxt3 项目搭建（Nuxt3+element-plus+scss 详细步骤）](https://blog.csdn.net/m0_48489737/article/details/127325786)
+- 📝 参考文档：[Nuxt3 项目中使用 svg](https://blog.csdn.net/weixin_49014702/article/details/128414398)
