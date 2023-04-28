@@ -48,3 +48,4 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 - 💻 构建工具：[Vite](https://vitejs.cn/guide/env-and-mode.html)
 - 📝 参考文档：[Nuxt3 开发-配置-部署](https://blog.csdn.net/snowball_li/article/details/128013833)
 - 📝 参考文档：[Nuxt3项目搭建（Nuxt3+element-plus+scss详细步骤）](https://blog.csdn.net/m0_48489737/article/details/127325786)
+- 📝 参考文档：[Nuxt3项目中使用svg](https://blog.csdn.net/weixin_49014702/article/details/128414398)
